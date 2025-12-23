@@ -13,7 +13,7 @@ Eu sou um desenvolvedor da parte frontal de sistemas. I'm a frontend developer.
 - Site 💻 - Em construção. - Website💻 - Working on it.
 	
 	
-**TomasSantosz/TomasSantosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TomasSantosz/TomasSantosz** 
 	
 - 🔭 Atualmente trabalho como bancário. - 🔭 I currently work as a banker.
 - 🌱 Atualmente não estou aprendendo sobre desenvolvimento. - 🌱 I am not currently learning about development.
